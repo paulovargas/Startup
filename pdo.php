@@ -2,7 +2,7 @@
 /* Variáveis PDO */
 $base_dados = 'cataboi';
 $usuario_bd = 'cataboi_add1';
-$senha_bd   = 'nfe37232335';
+$senha_bd   = '';
 $host_db    = 'mysql.cataboi.com';
 $conexao_pdo = null;
 

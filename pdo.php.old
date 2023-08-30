@@ -2,8 +2,8 @@
 /* Variáveis PDO */
 $base_dados = 'cataboi';
 $usuario_bd = 'cataboi_add1';
-$senha_bd   = 'nfe37232335';
-$host_db    = 'mysql16-farm76.kinghost.net';
+$senha_bd   = '';
+$host_db    = '';
 $conexao_pdo = null;
 
  
