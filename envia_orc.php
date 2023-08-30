@@ -72,7 +72,7 @@ $verifica = $prepara->execute(
 
 if ( $verifica ) {
 	
-	header("location: ../");
+	header("location: index.html");
 	
 	// Mata o script
 	exit;
